@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518899413 source:/home/kdeshmukh/Projects/Image Recognition/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+
